@@ -17,6 +17,8 @@ Esta aplicación web fue desarrollada con React y permite gestionar esculturas m
 
 ### Página Principal (Listado de Esculturas):
 
+![Página de Inicio](src/assets/readme-img/home-page.png)
+
 Muestra un listado de esculturas obtenidas de la API simulada.
 Cada tarjeta (card) contiene información detallada sobre una escultura, incluyendo descripción, ubicación, material, etc.
 Cada tarjeta incluye botones para eliminar y modificar la escultura correspondiente.
